@@ -1,0 +1,27 @@
+class-prototype and object,spread-array,destructuring-appending content in div
+babel-web-dependencies
+internal styling
+const header='.header{
+background:red;
+}'
+'.logo{
+
+}'
+
+calling
+<style>{header}{logo}</style>
+
+inline styling
+style={{"backgroundColor":"red"}}
+
+external
+style-loader-injecting style into head
+css-loader-extracing css from js
+
+sass-loader
+Redux-staore,action,reducer
+Passing data
+
+multiple reducer
+middlewares
+redux-thunk to implement async function
